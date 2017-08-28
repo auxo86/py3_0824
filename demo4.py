@@ -1,0 +1,5 @@
+print("")
+print('Hello World')
+print('Hello中文')
+print(type('Hello中文'))
+print(len('Hello中文'))
